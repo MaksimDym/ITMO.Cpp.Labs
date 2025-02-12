@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ITMO.Cpp.Labs", "ITMO.Cpp.Labs.vcxproj", "{488BF6B4-E0A6-435D-BB98-C6B93FE75FE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488BF6B4-E0A6-435D-BB98-C6B93FE75FE6}.Debug|x64.ActiveCfg = Debug|x64
+		{488BF6B4-E0A6-435D-BB98-C6B93FE75FE6}.Debug|x64.Build.0 = Debug|x64
+		{488BF6B4-E0A6-435D-BB98-C6B93FE75FE6}.Debug|x86.ActiveCfg = Debug|Win32
+		{488BF6B4-E0A6-435D-BB98-C6B93FE75FE6}.Debug|x86.Build.0 = Debug|Win32
+		{488BF6B4-E0A6-435D-BB98-C6B93FE75FE6}.Release|x64.ActiveCfg = Release|x64
+		{488BF6B4-E0A6-435D-BB98-C6B93FE75FE6}.Release|x64.Build.0 = Release|x64
+		{488BF6B4-E0A6-435D-BB98-C6B93FE75FE6}.Release|x86.ActiveCfg = Release|Win32
+		{488BF6B4-E0A6-435D-BB98-C6B93FE75FE6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD4FD8EC-5145-4A84-ACF0-9F44FC122855}
+	EndGlobalSection
+EndGlobal
