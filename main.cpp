@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main()
+/*int main()
 {
    //lab2 
     /*Student student01;
@@ -59,7 +59,7 @@ int main()
     delete student02;
     return 0;*/
 
-    //lab4
+   /* //lab4
     string name;
     string last_name;
     cout << "Name: ";
@@ -85,5 +85,6 @@ int main()
 
 
 
-}
-
+}    
+     
+     */
