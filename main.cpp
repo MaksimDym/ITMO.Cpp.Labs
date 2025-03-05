@@ -59,7 +59,7 @@ using namespace std;
     delete student02;
     return 0;*/
 
-   /* //lab4
+   /* lab4
     string name;
     string last_name;
     cout << "Name: ";
