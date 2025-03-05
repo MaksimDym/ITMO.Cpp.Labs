@@ -2,7 +2,7 @@
 #include <fstream>
 #include "C:\Games\ITMO\ITMO.Cpp.Labs\student.h.cpp" // запустился только с указанием полного пути
 using namespace std;
-//lab2
+
 // Конструктор Student
 Student::Student(string name, string last_name)
 {
@@ -63,6 +63,6 @@ double Student::get_average_score()
     return average_score; 
 }
 
-//lab3 
+
 
 
