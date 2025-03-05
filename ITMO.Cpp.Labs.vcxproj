@@ -129,6 +129,12 @@
   <ItemGroup>
     <ClCompile Include="Lab8Contr.cpp" />
     <ClCompile Include="Lab8Pract.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="student.cpp" />
+    <ClCompile Include="student.h.cpp">
+      <DebugInformationFormat Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">None</DebugInformationFormat>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</DeploymentContent>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
