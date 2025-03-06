@@ -1,8 +1,8 @@
-﻿#include <iostream>
-#include <string>
-#include "C:\Games\ITMO\ITMO.Cpp.Labs\student.h.cpp" // запустился только с указанием полного пути
-
-using namespace std;
+﻿//#include <iostream>
+//#include <string>
+//#include "C:\Games\ITMO\ITMO.Cpp.Labs\student.h.cpp" // запустился только с указанием полного пути
+//
+//using namespace std;
 
 /*int main()
 {
