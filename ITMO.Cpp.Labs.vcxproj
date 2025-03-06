@@ -127,7 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ITMO.Cpp.Labs.cpp" />
+    <ClCompile Include="Lab9Control.cpp" />
+    <ClCompile Include="Lab9practic.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
